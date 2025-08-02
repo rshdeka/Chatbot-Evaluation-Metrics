@@ -6,7 +6,9 @@ Evaluation flow architecture -
 ![Architecture](images/IMG_3645.png)
 
 Individual user-assistant evaluations -
-![individual scores](images/IMG_3646.jpeg)
+
+![individual scores](images/IMG_3647.jpeg)
 
 Entire Conversation evaluation -
-![conv scores](images/IMG_3647.jpeg)
+
+![conv scores](images/IMG_3646.jpeg)
