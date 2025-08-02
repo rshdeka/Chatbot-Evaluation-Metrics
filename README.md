@@ -4,3 +4,9 @@ Implemented a real-time automated Evaluation Workflow using Python for calculati
 
 Evaluation flow architecture -
 ![Architecture](images/IMG_3645.png)
+
+Individual user-assistant evaluations -
+![individual scores](images/IMG_3646.jpeg)
+
+Entire Conversation evaluation -
+![conv scores](images/IMG_3647.jpeg)
